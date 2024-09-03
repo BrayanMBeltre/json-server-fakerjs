@@ -1,0 +1,16 @@
+{
+	"name": "json-server-fakerjs",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.mjs"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"json-server": "0.17.4",
+		"@faker-js/faker": "^8.4.1"
+	}
+}
